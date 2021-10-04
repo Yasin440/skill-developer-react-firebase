@@ -3,10 +3,10 @@
 Visit Live Site with [Skill Developer](https://skill-developer-in-peogramming-language.netlify.app/).
 
 ## Details of my Web App
-
-In the project directory:
-*React Web App with router.
-*responsive with bootstrap.
+* React Web App with router.
+* responsive with bootstrap.
+* programming language institute web page.
+* use fack data.
 
 
 ### `npm start`
