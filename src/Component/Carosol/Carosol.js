@@ -11,21 +11,21 @@ const Carosol = () => {
                 </div>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="https://www.learnatrise.in/wp-content/uploads/2019/06/Essential-qualities-of-a-full-stack-developer-in-2019-20.png" className="d-block" alt="slider" />
+                        <img src="./slider2.jpg" className="d-block" alt="slider" />
                         <div className ="carousel-caption d-none d-md-block">
                         <h2>First slide label</h2>
                         <p>Some representative placeholder content for the first slide.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src="https://hackr.io/blog/best-web-development-courses/thumbnail/large" className="d-block" alt="slider" />
+                        <img src="./slider3.png" className="d-block" alt="slider" />
                         <div className ="carousel-caption d-none d-md-block">
                         <h2>Second slide label</h2>
                         <p>Some representative placeholder content for the second slide.</p>
                         </div>
                     </div>
                     <div className="carousel-item">
-                        <img src="https://lh3.googleusercontent.com/proxy/5C9Mi1mhzfqWjQotEAr-lGDgGv_z42v_DQLHclJcHIYUj_mUFHMHmc3ZdHd4Sf0SFAVsWdN2ru5Xw3cffcIEQScBLGDBsI9xvMoGU6YWjqVJAqcq0oR7DIq5xj1cVQmkW4AlHvO82uMR" className="d-block" alt="slider" />
+                        <img src="./slider4.png" className="d-block" alt="slider" />
                         <div className ="carousel-caption d-none d-md-block">
                         <h2>Third slide label</h2>
                         <p>Some representative placeholder content for the third slide.</p>
