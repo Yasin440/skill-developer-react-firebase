@@ -1,0 +1,16 @@
+.title{
+    text-align: center;
+    color: rgb(0, 26, 99);
+}
+.title::after,.card-title::after{
+    content: '';
+    background: tomato;
+    width: 8rem;
+    height: 2px;
+    display: inline-block;
+    margin-left: .8rem;
+    transform: translateY(-.5rem);
+}
+.card-title{
+    color: rgb(0, 26, 99);
+}
