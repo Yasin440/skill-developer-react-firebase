@@ -1,7 +1,7 @@
 import React from 'react';
-import './Card.css';
+import '../Card/Card.css'
 
-const Card = (props) => {
+const CourceCard = (props) => {
     const { name , picture, email, details, duration, price } = props.cource;
     return (
 
@@ -27,4 +27,4 @@ const Card = (props) => {
     );
 };
 
-export default Card;
+export default CourceCard;

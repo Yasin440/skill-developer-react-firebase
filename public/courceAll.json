@@ -4,7 +4,7 @@
         "picture": "https://html.com/wp-content/uploads/html-hpg-featured-new.png",
         "name": "HTML Crush Cource",
         "details": "The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets (CSS) and scripting languages such as JavaScript. ... HTML elements are the building blocks of HTML pages.",
-        "duration": "12 mongth",
+        "duration": "12 month",
         "price": "616.16",
         "email": "esteshuber@ovolo.com"
     },
@@ -13,7 +13,7 @@
         "picture": "https://www.technotification.com/wp-content/uploads/2018/11/learn-C-sharp-programming-1024x576.jpg",
         "name": "Easy Way of C#",
         "details": "C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework. C# is used to develop web apps, desktop apps, mobile apps, ...",
-        "duration": "7 mongth",
+        "duration": "7 month",
         "price": "554.93",
         "email": "macdonalddyer@ovolo.com"
     },
@@ -22,7 +22,7 @@
         "picture": "https://profiles.sulekha.com/mstore/25546077/albums/default/thumbnailfull/c.jpg",
         "name": "Learn C Language",
         "details": "C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static ...",
-        "duration": "9 mongth",
+        "duration": "9 month",
         "price": "797.14",
         "email": "tysonpuckett@ovolo.com"
     },
@@ -31,7 +31,7 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbLeRJSCA2uA6k1Hqrgj39zRrVc3432FXf9A&usqp=CAU",
         "name": "Learn C++ easy",
         "details": "Official C++ documentation - Might be hard to follow and understand for beginners. Visit official C++ documentation. Write a lot of C++ programming code- The only way you can learn programming is by writing a lot of code. Read C++ code- Join Github's open-source projects and read other people's code.",
-        "duration": "6 mongth",
+        "duration": "6 month",
         "price": "823.77",
         "email": "lawandaoneal@ovolo.com"
     },
@@ -40,7 +40,7 @@
         "picture": "https://www.filepicker.io/api/file/G30mR3RWTCCV3v5Fq4lb",
         "name": "php Crush Cource ",
         "details": "PHP is a widely used server-side programming language that's become increasingly fast and powerful over the years. PHP works well with HTML and databases, ...",
-        "duration": "4 mongth",
+        "duration": "4 month",
         "price": "706.62",
         "email": "sampsoncallahan@ovolo.com"
     },
@@ -58,7 +58,7 @@
         "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191231190155/Top-7-Skills-You-Must-Know-Before-You-Learn-ReactJS.png",
         "name": "Basic to Advanced React",
         "details": "Syllabus · Why Learn ReactJS? ReactJS offers graceful solutions to some of front-end programming's most persistent issues, allowing you to build dynamic and ...",
-        "duration": "8 mongth",
+        "duration": "8 month",
         "price": "925.54",
         "email": "barnettwooten@ovolo.com"
     },
@@ -67,7 +67,7 @@
         "picture": "https://miro.medium.com/max/570/0*nwgW-15ya_pvscTa",
         "name": "Ruby Programming",
         "details": "Codecademy courses have been taken by employees at ... Learn about Ruby, an object-oriented scripting language you can use on its own or as part of the Ruby on ...",
-        "duration": "10 mongth",
+        "duration": "10 month",
         "price": "641.20",
         "email": "henriettapearson@ovolo.com"
     },
@@ -76,7 +76,7 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRckMs7c1hyoB_MTZPhdT39CtzdmTYrIBMiaw&usqp=CAU",
         "name": "COBOL Crush Cource",
         "details": "Audience. This tutorial is designed for software programmers who would like to learn the basics of COBOL. It provides enough understanding on COBOL programming ...",
-        "duration": "9 mongth",
+        "duration": "9 month",
         "price": "799.95",
         "email": "jannagreen@ovolo.com"
     },
@@ -85,24 +85,42 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYUkSITCSlFaPpbaZQewRQqt97ikib-1W7Aw&usqp=CAU",
         "name": "Learn Pascal Programming",
         "details": "Pascal is a procedural programming language, designed in 1968 and published in 1970 by Niklaus Wirth and named in honour of the French mathematician and ...",
-        "duration": "6 mongth",
+        "duration": "6 month",
         "price": "500.11",
         "email": "brooksdavid@ovolo.com"
+    },
+    {
+        "_id": "614f57d6757edf395eeda0dd",
+        "picture": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20191231190155/Top-7-Skills-You-Must-Know-Before-You-Learn-ReactJS.png",
+        "name": "Basic to Advanced React",
+        "details": "Syllabus · Why Learn ReactJS? ReactJS offers graceful solutions to some of front-end programming's most persistent issues, allowing you to build dynamic and ...",
+        "duration": "8 month",
+        "price": "925.54",
+        "email": "barnettwooten@ovolo.com"
     },
     {
         "_id": "614f57d6327a0a98459a7765",
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWyKx7inUDs5tzUfIYPjkClnrlnZVVGLFYZA&usqp=CAU",
         "details": "Smalltalk is a fully object-oriented, dynamically typed, reflective programming language with no 'non-object' types. Smalltalk was created as the language ...",
-        "duration": "13 mongth",
+        "duration": "13 month",
         "price": "688.58",
         "email": "haleydorsey@ovolo.com"
+    },
+    {
+        "_id": "614f57d61cd06ee7f42f785c",
+        "picture": "https://miro.medium.com/max/570/0*nwgW-15ya_pvscTa",
+        "name": "Ruby Programming",
+        "details": "Codecademy courses have been taken by employees at ... Learn about Ruby, an object-oriented scripting language you can use on its own or as part of the Ruby on ...",
+        "duration": "10 month",
+        "price": "641.20",
+        "email": "henriettapearson@ovolo.com"
     },
     {
         "_id": "614f57d6f2edcf2a573b4090",
         "picture": "https://intiphp.com/photos/1/article/mengenal-ada-programming.jpg",
         "name": "Learn ADA Programming",
         "details": "This course will teach you the basics of the Ada programming language and is ... You will learn how to apply those techniques to programming in Ada.",
-        "duration": "8 mongth",
+        "duration": "8 month",
         "price": "883.38",
         "email": "dillonmiller@ovolo.com"
     },
@@ -111,7 +129,7 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB0ovJO-9cAI_SoWCixuua8hgm4x4nRf_3iQ&usqp=CAU",
         "name": "Learn Bootstrap",
         "details": "Bootstrap Tutorial. Bootstrap is the most popular and powerful front-end (HTML, CSS, and JavaScript) framework for faster and easier responsive web development.",
-        "duration": "6 mongth",
+        "duration": "6 month",
         "price": "997.49",
         "email": "herrerabaldwin@ovolo.com"
     },
@@ -129,7 +147,7 @@
         "picture": "https://tsh.io/wp-content/uploads/2021/03/tailwind-css-tutorial.jpg",
         "name": "Tailwind css framwork",
         "details": "This tutorial will teach your Tailwind from scratch, using a mix of lectures and interactive coding challenges. What's inside. This course contains 24...",
-        "duration": "6 mongth",
+        "duration": "6 month",
         "price": "658.48",
         "email": "mullenowens@ovolo.com"
     },
@@ -138,7 +156,7 @@
         "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLLu1e0uZ5MOLEHwUZ3z3jeTG6PYnUkdu3LA&usqp=CAU",
         "name": "Perl Programming Language",
         "details": "A modern programming language · Perl examples · What would you like to learn? · Existing developers / system administrators.",
-        "duration": "6 mongth",
+        "duration": "6 month",
         "price": "694.36",
         "email": "kendranash@ovolo.com"
     }

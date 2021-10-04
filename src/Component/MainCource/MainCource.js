@@ -12,7 +12,7 @@ const MainCource = () => {
     return (
         <div>
             <div className="title my-5">
-                <h2 className="fw-bold">Check Our Main Cources</h2>
+                <h1 className="fw-bold">Check Our Main Cources</h1>
             </div>
             <div className="container px-4">
                 <div className="row row-cols-1 row-cols-md-2 g-5">

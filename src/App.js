@@ -5,10 +5,13 @@ import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
 import Home from './Component/Home/Home';
 import Footer from './Component/Footer/Footer';
 import NotFound from './Component/NotFound/NotFound';
+import Cources from './Component/Cources/Cources';
+import Contact from './Component/Contact/Contact';
+import About from './Component/About/About';
 
 function App() {
   return (
-    <div>
+    <div className='body'>
       <Router>
         <Header></Header>
         <Switch>
@@ -17,6 +20,15 @@ function App() {
           </Route>
           <Route path='/home'>
             <Home></Home>
+          </Route>
+          <Route path='/about'>
+            <About></About>
+          </Route>
+          <Route path='/cources'>
+            <Cources></Cources>
+          </Route>
+          <Route path='/contact'>
+            <Contact></Contact>
           </Route>
           <Route path="*">
             <NotFound></NotFound>

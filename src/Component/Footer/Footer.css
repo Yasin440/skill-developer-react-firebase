@@ -1,8 +1,10 @@
 .footer{
     background:#F8F9FA;
-    padding: 20px 0px;
+    padding: 35px 0px;
     text-align: center;
     margin-top: 7rem;
+    transition: .5s all;
+    box-shadow: 1.5px 1.5px 16px rgb(174 174 174);
 }
 .footer h5 {
     font-weight: bold;
