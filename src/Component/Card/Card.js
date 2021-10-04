@@ -1,6 +1,7 @@
 import React from 'react';
 import './Card.css';
 
+// ***********home cart component*************//
 const Card = (props) => {
     const { name , picture, email, details, duration, price } = props.cource;
     return (

@@ -14,3 +14,35 @@
     border-radius: 20px;
     padding: 0;
 }
+.instructor{
+    padding-bottom: 5rem;
+}
+.instructor p,.context p{
+    color: tomato;
+    font-weight: 500;
+}
+.context .details{
+    font-weight: bold;
+    color: rgba(138, 138, 138, 0.89);
+}
+.instructor img{
+    width: 100%;
+    border-radius: 8px;
+}
+.instructor h4{
+    margin-top: 12px;
+    color: rgb(0, 26, 99);
+}
+.instructor .body{
+    background-color: white;
+    padding: 10px;
+    margin: 0 6px;
+    border-radius: 8px;
+    transition: .5s all;
+}
+.instructor .body:hover{
+    box-shadow: 2px 2px 20px gray;
+    padding: 0 0 5px 0;
+}
+
+

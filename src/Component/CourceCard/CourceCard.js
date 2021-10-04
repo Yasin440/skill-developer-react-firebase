@@ -1,6 +1,7 @@
 import React from 'react';
 import '../Card/Card.css'
 
+//************Cource page cart component **************//
 const CourceCard = (props) => {
     const { name , picture, email, details, duration, price } = props.cource;
     return (

@@ -7,9 +7,11 @@ const Home = () => {
     return (
         <div>
             <div>
+                {/* home page slider */}
                 <Carosol></Carosol>
             </div>
             <div>
+                {/* home page cource component */}
                 <MainCource></MainCource>
             </div>
         </div>
