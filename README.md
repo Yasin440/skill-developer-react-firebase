@@ -1,10 +1,13 @@
-# Getting Started with Create React App
+# Skill Developer- A React Responsive Web App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visit Live Site with [Skill Developer](https://skill-developer-in-peogramming-language.netlify.app/).
 
-## Available Scripts
+## Details of my Web App
 
-In the project directory, you can run:
+In the project directory:
+*React Web App with router.
+*responsive with bootstrap.
+
 
 ### `npm start`
 
