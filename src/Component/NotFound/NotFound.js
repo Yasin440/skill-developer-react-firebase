@@ -1,13 +1,20 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './NotFound.css'
 
 const NotFound = () => {
     return (
-        <div className="my-5" style={{
-            textAlign:'center',height:'15rem', color:'red'
-        }}>
-            <h1>...404...</h1>
-            <h3>):---Can not Search Anything---:(</h3>
+        <div className="notFound">
+            <div className="row container">
+                <img className='col-12 w-50 m-auto' src="./notFound.jpg" alt="img" />
+            </div>
+            <div className='button'>
+                <h2>--Opps--</h2>
+                <p>Nothing to found</p>
+                <Link to='/home'>
+                    <button><i className="fas fa-arrow-left pe-1"></i>Back To Home</button>
+                </Link>
+            </div>
         </div>
     );
 };

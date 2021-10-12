@@ -3,7 +3,7 @@ import './Card.css';
 
 // ***********home cart component*************//
 const Card = (props) => {
-    const { name , picture, email, details, duration, price } = props.cource;
+    const { name, picture, email, details, duration, price } = props.cource;
     return (
 
         <div className="col">
@@ -15,13 +15,13 @@ const Card = (props) => {
                     <div className="card-title"><h4 className='fw-bold'>{name}...</h4></div>
                     <p className="card-text">{details.slice(0, 90)}...</p>
                     <p className=
-                    'fw-bold'>Fee: ${price}</p>
+                        'fw-bold'>Fee: ${price}</p>
                     <p className=
-                    'fw-bold'>Duration: {duration}</p>
+                        'fw-bold'>Duration: {duration}</p>
                     <p className="fw-bold">{email}</p>
                 </div>
                 <div className="card-footer">
-                    <button><i class="fas fa-info-circle pe-1"></i>More Info</button>
+                    <button><i className="fas fa-info-circle pe-1"></i>More Info</button>
                 </div>
             </div>
         </div>

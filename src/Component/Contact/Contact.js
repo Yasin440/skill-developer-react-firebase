@@ -10,10 +10,10 @@ const Contact = () => {
             <div className='row container m-auto mt-5'>
                 <div className='contact col-lg-6 col-md-12'>
                     <h2>Leave Us A Message...</h2>
-                    <p class='fw-bold text-secondary'>Learn any programming that you want to and loved to code. We have our best qualified peogrammers to make you success on your goal... </p>
+                    <p className='fw-bold text-secondary'>Learn any programming that you want to and loved to code. We have our best qualified peogrammers to make you success on your goal... </p>
                     <div className='row py-2'>
                         <div className='col-1'>
-                        <i class="fas fa-envelope"></i>
+                            <i className="fas fa-envelope"></i>
                         </div>
                         <div className='col-11'>
                             <h5>Email Address :</h5>
@@ -22,7 +22,7 @@ const Contact = () => {
                     </div>
                     <div className='row py-2'>
                         <div className='col-1'>
-                        <i class="fas fa-phone"></i>
+                            <i className="fas fa-phone"></i>
                         </div>
                         <div className='col-11'>
                             <h5>Phone Number :</h5>
@@ -31,7 +31,7 @@ const Contact = () => {
                     </div>
                     <div className='row py-2'>
                         <div className='col-1'>
-                        <i class="fas fa-map-marked-alt"></i>
+                            <i className="fas fa-map-marked-alt"></i>
                         </div>
                         <div className='col-11'>
                             <h5>Our Location :</h5>
@@ -45,8 +45,8 @@ const Contact = () => {
                     <input placeholder='Subject' type="text" name="" id="" />
                     <textarea required placeholder='Write Your Message*' ></textarea>
                     <div className="card-footer">
-                    <button>Submit Now</button>
-                </div>
+                        <button>Submit Now</button>
+                    </div>
                 </div>
             </div>
         </div>

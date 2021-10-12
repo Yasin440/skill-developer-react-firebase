@@ -8,6 +8,10 @@ import NotFound from './Component/NotFound/NotFound';
 import Cources from './Component/Cources/Cources';
 import Contact from './Component/Contact/Contact';
 import About from './Component/About/About';
+import SignUp from './Component/SignUp/SignUp';
+import initializeAuthentication from './Firebase/Firebase.init';
+
+initializeAuthentication();
 
 function App() {
   return (
@@ -29,6 +33,9 @@ function App() {
           </Route>
           <Route path='/contact'>
             <Contact></Contact>
+          </Route>
+          <Route path='/signup'>
+            <SignUp></SignUp>
           </Route>
           <Route path="*">
             <NotFound></NotFound>
